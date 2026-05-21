@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Synapsis",
+  "version": "1.0",
+  "description": "Context-aware AI research assistant for hackathons.",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
